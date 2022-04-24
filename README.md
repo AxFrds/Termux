@@ -1,6 +1,6 @@
 # Install Linux Distro
 ```
-wget -q https://raw.githubusercontent.com/AxFrds/Termux/master/linux-install.sh && bash linux-install.sh
+curl -s -o exe https://raw.githubusercontent.com/AxFrds/Termux/master/linux-install.sh && bash exe
 ```
 
 # Source
